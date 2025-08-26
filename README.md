@@ -166,7 +166,7 @@ Please follow the code style and run the test suite before submitting PRs.
 
 ## License & Contact
 
-Mockilo is BSL1.1 licensed.
+Mockilo is BSL-1.1 licensed.
 
 Have ideas, questions, or want to collaborate? Open an issue or reach out on the project repository.
 
