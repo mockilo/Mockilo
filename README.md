@@ -70,16 +70,16 @@ Mockilo is designed for frontend engineers, backend devs, QA, and product teams 
 
 ```bash
 # install the CLI globally (optional)
-npm i -g @mockilo/cli
+npm i -g @mockilo/mocktail-cli
 
 # or use npx for one-off usage
-npx @mockilo/cli generate --help
+npx @mockilo/mocktail-cli generate --help
 ```
 
 ### Generate mock data from a Prisma schema
 
 ```bash
-npx @mockilo/cli generate \
+npx @mockilo/mocktail-cli generate \
   --schema ./prisma/schema.prisma \
   --models User,Post \
   --count 50 \
